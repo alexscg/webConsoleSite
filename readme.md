@@ -1,1 +1,4 @@
-Hello Web Console!
+webConsoleSite
+==============
+
+Web Console public website prototype!
